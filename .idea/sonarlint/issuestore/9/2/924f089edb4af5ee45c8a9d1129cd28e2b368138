@@ -1,0 +1,38 @@
+
+‘
+java:S11928"NDefine a constant instead of duplicating this literal "Meyve adÄ± : " 3 times.(²Îá¬8îËşø1J$8958408c-25f3-4c72-9dac-55c509a37d5d
+‘
+java:S11928"NDefine a constant instead of duplicating this literal " , DeÄŸeri : " 3 times.(²Îá¬8ïËşø1J$09546222-7a58-423e-aad9-090eaae33021
+µ
+java:S1319S"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ŞÑİ×øÿÿÿÿ8ÉŸöø1J$00ecb4b5-90ae-48ad-a7fa-bc8cc5948895
+«
+java:S1319e"cThe type of "fruits" should be an interface such as "Map" rather than the implementation "HashMap".(·Ö£‹ûÿÿÿÿ8¾ßıø1J$2830508c-2812-4ce0-8079-70ef5698a511
+]
+java:S1220""Move this file to a named package.8ÊŸöø1J$1c6280e9-b055-49b0-914d-f3825d1276ef
+~	java:S125
+"<This block of commented-out lines of code should be removed.( ñ¿Ã8ÚŸöø1J$88938e3e-0457-494d-ac4a-fabd01d79b63
+r	java:S106"+Replace this use of System.out by a logger.(ıÉŞ¬úÿÿÿÿ8ÛŸöø1J$0d29562d-58e4-4925-bad9-3ba62e999085
+u
+java:S1135 "2Complete the task associated to this TODO comment.(Ç¢òÓ8ÜŸöø1J$6cdfe59f-31c8-4589-ada9-e4d5c1406236
+r	java:S106)"+Replace this use of System.out by a logger.(©º×õÿÿÿÿÿ8ŞŸöø1J$1a88ebc6-b284-491d-8811-4e4527e0f229
+r	java:S106-"+Replace this use of System.out by a logger.(ßùïĞûÿÿÿÿ8ŞŸöø1J$e21a0980-28c2-42eb-acfe-63304f48e4b2
+m	java:S106."+Replace this use of System.out by a logger.(ıäè‡8ŞŸöø1J$b7bd5b81-63ec-4fa8-998a-0c6d0f5730a6
+r	java:S106/"+Replace this use of System.out by a logger.(÷ªÖ°ùÿÿÿÿ8ŞŸöø1J$1164f7bd-0a6b-49e2-b977-849aea66609c
+r	java:S1060"+Replace this use of System.out by a logger.(¨âıúÿÿÿÿ8ßŸöø1J$a2274edb-145e-4fc0-a893-a65d23a9aca4
+r	java:S1062"+Replace this use of System.out by a logger.(¨âıúÿÿÿÿ8ßŸöø1J$5827507e-118e-4b81-9a50-dea3c1f14b6e
+ƒ	java:S1251"<This block of commented-out lines of code should be removed.(ÆØæÿÿÿÿÿ8ßŸöø1J$20fa1265-6fad-4e68-a16f-35bfa698a673
+w
+java:S28647"4Iterate over the "entrySet" instead of the "keySet".(¢Ìô8àŸöø1J$2a4fac34-2879-4154-9844-0e82cbf68697
+u
+java:S11355"2Complete the task associated to this TODO comment.( ™‘´8àŸöø1J$77205172-08b6-4cf5-9bb7-9245e8cbc78f
+m	java:S1068"+Replace this use of System.out by a logger.(²Îá¬8àŸöø1J$95a5b338-fcc3-4956-80e1-b90a0732a586
+r	java:S106:"+Replace this use of System.out by a logger.(œ¼öÓøÿÿÿÿ8àŸöø1J$5517a67f-8552-4a30-b4aa-acb8b71ba9fd
+r	java:S106="+Replace this use of System.out by a logger.(ğ„™úÿÿÿÿ8áŸöø1J$47b3a4ca-6e59-4310-8d76-c381af7a814d
+z
+java:S1135A"2Complete the task associated to this TODO comment.(¸¹Áëşÿÿÿÿ8ìŸöø1J$aff58090-aee4-4c3c-b466-3cf6b428849d
+m	java:S106M"+Replace this use of System.out by a logger.(¶Õ¤ 8ûŸöø1J$5fb1f19e-c840-40b9-bfa8-203004b9d80c
+r	java:S106W"+Replace this use of System.out by a logger.(Ë¼‡ûÿÿÿÿ8ıŸöø1J$c806d865-0f30-45f4-a143-f34505805336
+r	java:S106["+Replace this use of System.out by a logger.(º°Ú°úÿÿÿÿ8ıŸöø1J$a447c5d1-713b-4884-9a4a-99a1110215a1
+|
+java:S2864g"4Iterate over the "entrySet" instead of the "keySet".(ïâÉƒøÿÿÿÿ8ğ†ÿø1J$c81ce573-0c5f-42c6-b355-7e1711319431
+m	java:S106h"+Replace this use of System.out by a logger.(¸Á“à8‹Ìşø1J$25cc966f-9d41-4339-91e3-e4c89b79cc1c
